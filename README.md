@@ -1,8 +1,32 @@
-# React + Vite
+# My First React Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my first React website! This project was created by following a tutorial from Compile Tab on YouTube.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a simple React website that I built as part of a learning exercise. The tutorial helped me understand the basics of React, including component creation, state management, and props.
+
+## Tutorial
+
+The website was created by following this [YouTube tutorial by Compile Tab](https://www.youtube.com/watch?v=EwzWg-Joxq0). The tutorial provides a step-by-step guide to building a React application from scratch.
+
+## Features
+
+- Basic React components
+- State management
+- Props passing
+- Simple UI
+
+## Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+- Node.js and npm should be installed. You can download them from [nodejs.org](https://nodejs.org/).
+
+### Installation
+
+1. Clone the repository
+   ```sh
+   git clone https://github.com/kushald/virtualr.git
